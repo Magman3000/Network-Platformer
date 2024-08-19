@@ -10,3 +10,6 @@ I gave a link to google driver as git-hub refused to loet me uplöoad files bigg
 Getting things to replicate when I wanted them to and not replicate when I didn't whant them to.
 
 As I am writing this I relized that the sytem to keep UI and camera seperate is most likely the thing that made the chat break but I no longer have time to fix that.
+
+
+OBS!! Tried downloading the zip file for editor on my shool computer and it can't be unpacked, the github now does however have a file with the scripts.
